@@ -1,4 +1,4 @@
-# .github
+
 # Ataraxia Productions
 
 > *From quiet ideas to living worlds.*
