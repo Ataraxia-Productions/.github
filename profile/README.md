@@ -33,7 +33,7 @@ experiences are in the works. Watch this space.
 | Handle | Role |
 |--------|------|
 | [Star](https://github.com/fxllingstar) | Founder & Lead Developer |
-| [Sand](Link coming soon) | Co-Founder & 3D Game Artist |
+| [Sand](https://github.com/TheSandrone) | Co-Founder & 3D Game Artist |
 
 ---
 
