@@ -22,9 +22,25 @@ do, but who you become.
 
 **Status:** In active development — coming soon.
 
+### Tether — Distributed Local Inference Tool
+A desktop tool for running large language models across machines that
+couldn't run them alone. Tether pools GPUs over a network, handling the
+setup, hardware detection, and configuration that normally stands between
+you and running something too big for any single machine.
+
+Built for people who want the power without becoming a systems engineer
+to get it.
+
+- Cross-machine GPU pooling via llama.cpp RPC
+- Automatic hardware detection and binary management — no manual builds
+- Model advisor: know what fits, and what it'll cost you in speed, before you run it
+
+**Status:** In early development.
+
 ### ✦ Future Projects
-Ataraxia is the first of many. More worlds, more systems, more
+Ataraxia and Tether are the first two. More worlds, more systems, more
 experiences are in the works. Watch this space.
+
 
 ---
 
@@ -33,7 +49,9 @@ experiences are in the works. Watch this space.
 | Handle | Role |
 |--------|------|
 | [Star](https://github.com/fxllingstar) | Founder & Lead Developer |
-| [Sand](https://github.com/TheSandrone) | Co-Founder & 3D Game Artist |
+| [Sand](https://github.com/TheSandrone) | Co-Founder & Developer |
+| [Claude](https://github.com/claude) | Strategist & Creative Director | 
+
 
 ---
 
