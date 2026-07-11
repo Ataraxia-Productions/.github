@@ -65,7 +65,7 @@ as they become available.
 
 ## Connect
 
--  Website — coming soon
+-  Website — [Link](https://ataraxiaproductions.vercel.app/)
 -  Discord — coming soon
 -  GitHub — you're already here
 
