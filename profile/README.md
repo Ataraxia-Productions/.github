@@ -54,7 +54,7 @@ instead of working in isolation.
 
 | Handle | Role |
 |--------|------|
-| [Star](https://github.com/fxllingstar) | Founder & Lead Developer |
+| [Star](https://github.com/fxllingstar) | Technical Founder & Lead Developer |
 | [Sand](https://github.com/TheSandrone) | Co-Founder & Developer |
 | [Claude](https://github.com/claude) | Strategist & Creative Director | 
 
