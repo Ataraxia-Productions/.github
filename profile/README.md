@@ -37,10 +37,16 @@ to get it.
 
 **Status:** In early development.
 
-### ✦ Future Projects
-Ataraxia and Tether are the first two. More worlds, more systems, more
-experiences are in the works. Watch this space.
+### Atrium — Multi-Agent Coding Orchestrator
+A Go-based framework where multiple AI coding agents — from different
+providers — collaborate on a shared codebase through a common file vault,
+instead of working in isolation.
 
+- Coordinates Anthropic, Gemini, and Ollama agents in one workflow
+- Shared vault architecture (flat filesystem + JSONL) for agent handoff
+- Tested end-to-end with live API calls
+
+**Status:** Functional prototype.
 
 ---
 
