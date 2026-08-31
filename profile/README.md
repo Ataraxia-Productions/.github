@@ -20,7 +20,7 @@ do, but who you become.
 - Soul-driven progression and world state
 - Handcrafted lore, systems, and experiences
 
-**Status:** In active development — coming soon.
+**Status:** Paused until further notice.
 
 ### Tether — Distributed Local Inference Tool
 A desktop tool for running large language models across machines that
@@ -35,7 +35,7 @@ to get it.
 - Automatic hardware detection and binary management — no manual builds
 - Model advisor: know what fits, and what it'll cost you in speed, before you run it
 
-**Status:** In early development.
+**Status:** In active development.
 
 ### Atrium — Multi-Agent Coding Orchestrator
 A Go-based framework where multiple AI coding agents — from different
